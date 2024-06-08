@@ -2,4 +2,6 @@
     transition: 1s all;
     transform: scale3D(1.1,1.1,1.1);
     border: 3px black;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 5px 5px black;
 }
