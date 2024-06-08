@@ -1,0 +1,5 @@
+.CARDS:hover{
+    transition: 1s all;
+    transform: scale3D(1.1,1.1,1.1);
+    border: 3px black;
+}
